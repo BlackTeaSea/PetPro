@@ -1,0 +1,4 @@
+name: Petpro
+version: '${project.version}'
+main: org.blackteasea.petpro.Petpro
+api-version: '1.20'
